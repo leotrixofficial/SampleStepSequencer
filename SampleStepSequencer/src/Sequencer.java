@@ -1,7 +1,7 @@
 // *************************************
 // * Written by Ethan 'Leotrix' Wright *
-// * Created: 25 June 2017			   *
-// * Last updated: 25 July 2017		   *
+// * Created: 25 June 2017             *
+// * Last updated: 25 July 2017	       *
 // *************************************
 import java.awt.*;
 import java.awt.event.*;
