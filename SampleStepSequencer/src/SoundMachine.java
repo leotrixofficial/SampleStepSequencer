@@ -1,7 +1,7 @@
 // *************************************
 // * Written by Ethan 'Leotrix' Wright *
-// * Created: 25 June 2017			   *
-// * Last updated: 27 June 2017		   *
+// * Created: 25 June 2017             *
+// * Last updated: 27 June 2017        *
 // *************************************
 import javax.swing.*;
 
