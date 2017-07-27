@@ -1,5 +1,7 @@
 # SampleStepSequencer
-A very basic sample step sequencer I made in Java.
+A very basic sample step sequencer made in Java.
+
+To run this sequencer, simply execute the SampleStepSequencer.jar file included in the repository!
 
 Current features:
   -Sequencer steps
