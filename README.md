@@ -13,5 +13,3 @@ Planned future features:
   -Sample pitch control
   -Drag and drop samples
   -Multiple step lanes
-
-This is my first ever git repository. Don't judge. lol. :P
